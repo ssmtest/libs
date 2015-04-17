@@ -1,1 +1,1 @@
-include ':app', ':networklayer'
+include ':app', ':networklayer', ':networklayer2'
